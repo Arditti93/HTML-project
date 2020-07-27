@@ -13,10 +13,6 @@ body {
 }
 
 
-a {
-  text-decoration: none;
-}
-
 #navigation {
   position: fixed;
   float: left;
