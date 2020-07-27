@@ -19,10 +19,10 @@ a {
 }
 
 #navigation {
- float: center
-/*   position: fixed;
+  float: center
+  position: fixed;
   top: 25px;
-  left: 1500px; */
+  left: 1500px;
   font-family: 'Quicksand', sans-serif;
   font-size: 23px;
 }
